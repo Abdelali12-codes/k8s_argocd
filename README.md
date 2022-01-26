@@ -1,1 +1,1 @@
-"# k8s_argocd" 
+# k8s_argocd
